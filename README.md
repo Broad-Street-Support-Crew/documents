@@ -1,4 +1,6 @@
-Introduction
+**Introduction**
+
+
 Welcome to Mezz Machine V4.0 Terms of Service. This document is a legal agreement between Mezz Machine V4.0 ("mezzmachine.xyz,“us,” “our,” or "we") and you ("you" or “your”).
 
 By accessing our services, Mezz Machine V4.0 and Website, accessible from https://mezzmachine.xyz:42356, you are agreeing to be bound by our Terms of Service and agree that you are responsible for the agreement with any applicable local laws.
